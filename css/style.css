@@ -396,9 +396,7 @@ input[type=radio]:checked:before {
     background-size: cover;
     background-repeat: no-repeat;
 }
-.bg-fixed {
-    background-attachment: fixed;
-}
+
 .bg-cover {
     background-size: cover !important;
 }
